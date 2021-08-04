@@ -1,0 +1,10 @@
+{
+  "about": "About",
+  "locale": {
+    "fr": "French",
+    "en": "English"
+  },
+  "home": "Home",
+  "message": "hello",
+  "not_found": "not found"
+}
